@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.ser_section{
+    height: 70vh;
+    width: 100%;
+    /* background-color: blueviolet; */
+    background-image: url("/services.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    filter: grayscale(0.6);
+    color: white;
+}
+.ser_content{
+    height: 30vh;
+    width: 40vw;
+    /* background-color: chocolate; */
+    position:relative;
+    left: 90px;
+    top: 170px;
+}
+.ser_content h1{
+    font-size: 44px;
+    font-family: "Pacifico", cursive;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 6px;
+}
+.ser_fbtn{
+    height: 8vh;
+    width: 20vh;
+    font-size: 20px;
+    background-color: rgba(13, 244, 244, 0.505);
+    color: white;
+    margin-top: 30px;
+    margin-right: 40px;
+    transform: skew(25deg);
+    cursor: pointer;
+}
+
+.ser_sbtn{
+    height: 8vh;
+    width: 20vh;
+    font-size: 20px;
+    background-color: rgba(1, 253, 253, 0.989);
+    color: white;
+    margin-top: 30px;
+    margin-right: 40px;
+    transform: skew(25deg);
+    cursor: pointer;
+}
+.ser_fbtn span , .ser_sbtn span{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.ser_cards{
+    height: 60vh;
+    width: 100%;
+    background-color:black ;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ser_indcards{
+    height: 30vh;
+    width: 40vh;
+    /* background-color: cornflowerblue; */
+    transform: skew(-15deg);
+    text-align: center;
+    padding: 20px;
+}
+.ser_indcards h3{
+    margin-top: 30px;
+    color:cyan;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ser_indcards p{
+    color: white;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.one_cd{
+    background-image: url("./black_1.jpg");
+    /* filter: grayscale(0.9); */
+    border: 3px solid white;
+}
+.two_cd{
+    background-image: url("./black_4.jpg");
+    /* filter: grayscale(0.9); */
+    border: 3px solid white;
+}
+.three_cd{
+    background-image: url("./black_3.jpg");
+    /* filter: grayscale(0.9); */
+    border: 3px solid white;
+}
+
+
+
+.ser_form{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+.ser_form_heading{
+    height: 20vh;
+    width: 100%;
+    /* background-color: chocolate; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ser_form_heading h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    text-transform: capitalize;
+    color: blue;
+}
+.ser_item{
+    height:80vh ;
+    width: 100%;
+    /* background-color: darkcyan; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_form{
+    height: 60vh;
+    width: 80vh;
+    /* background-color: burlywood; */
+    padding: 20px;
+}
+.main_form form{
+    text-align: center;
+}
+.main_form form input{
+    height: 10vh;
+    width: 70%;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 3px solid white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    background-color: gray;
+    color: white;
+    
+}
+.main_form form button{
+    height: 10vh;
+    width: 70%;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 3px solid black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background: blue;
+    color: white;
+}

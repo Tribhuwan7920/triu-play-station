@@ -1,0 +1,26 @@
+[
+    {
+        "images": "og_1.jpg",
+        "name" : " Dragon's Dogma "
+    },
+    {
+        "images": "og_2.jpg",
+        "name" : "Terraria"
+    },
+    {
+        "images": "og_3.jpg",
+        "name" : "Minecraft"
+    },
+    {
+        "images": "og_4.jpg",
+        "name" : " Metal Gear Solid "
+    },
+    {
+        "images": "og_5.jpg",
+        "name" : "Fallout 4"
+    },
+    {
+        "images": "og_6.jpg",
+        "name" : "Halo Infinite"
+    }
+]

@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.acom{
+    height: 60vh;
+    width: 100%;
+    background-color: black;
+}
+.com_heading{
+    height: 20vh;
+    width: 100%;
+    /* background-color: rgba(82, 119, 45, 0.68); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.com_heading h1 {
+    font-size: 30px;
+    color: blue;
+    font-family: "Playwrite IS", cursive;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+}
+.com_logo{
+    height: 40vh;
+    width: 100%;
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.com_logo img{
+    height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    margin: 20px;
+}

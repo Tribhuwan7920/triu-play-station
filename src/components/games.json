@@ -1,0 +1,26 @@
+[
+    {
+        "images" : "game_1.jpg",
+        "name":"free fire"
+    },
+    {
+        "images" : "game_2.jpg",
+        "name":"call of duty"
+    },
+    {
+        "images" : "game_3.jpg",
+        "name":"mini militia"
+    },
+    {
+        "images" : "game_4.jpg",
+        "name":"battle ground"
+    },
+    {
+        "images" : "game_12.jpg",
+        "name":"fire simulations"
+    },
+    {
+        "images" : "game_6.jpg",
+        "name":"fire free"
+    }
+]
